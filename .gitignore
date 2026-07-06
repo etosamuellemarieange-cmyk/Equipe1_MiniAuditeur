@@ -1,0 +1,22 @@
+# Environnement virtuel
+.venv/
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Rapports générés (on ne versionne pas les sorties)
+reports/*.md
+reports/*.html
+!reports/.gitkeep
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
