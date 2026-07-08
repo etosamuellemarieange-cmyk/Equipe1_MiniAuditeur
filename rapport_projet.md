@@ -2,7 +2,7 @@
 
 **Cours :** Python pour la cybersécurité et le pentesting
 **Formation :** IEF2I
-**Équipe :** Équipe 1
+**Équipe :** YOUMBI Sonia, MAILLET Wilfried, ETO Marie Ange
 **Date :** Juillet 2026
 
 ---
@@ -80,14 +80,13 @@ L'outil alerte automatiquement si un certificat expire dans moins de 30 jours.
 
 ## 3. Répartition du travail
 
-*(À adapter selon la composition réelle de l'équipe.)*
+La répartition suivante a été retenue en début de projet, avec des relectures croisées systématiques entre membres.
 
 | Membre | Responsabilité principale |
 |--------|--------------------------|
-| Membre A | Module 1 (scanner) + tests |
-| Membre B | Module 2 (HTTP analyzer) + tests |
-| Membre C | Module 3 (reporter) + CLI |
-| Membre D | Bonus TLS + README + rapport |
+| YOUMBI Sonia | Module 1 (scanner de ports TCP multi-thread) + gestion du parallélisme (ThreadPoolExecutor) |
+| MAILLET Wilfried | Module 2 (analyseur d'en-têtes HTTP) + interface CLI (argparse) |
+| ETO Marie Ange | Module 3 (générateur de rapport Markdown/HTML) + bonus TLS + documentation (README, rapport de projet)|
 
 Chaque membre a néanmoins contribué à la relecture des autres modules et à la gestion des erreurs transverses, conformément à l'exigence de soutenance selon laquelle chacun doit pouvoir présenter n'importe quelle partie du code.
 

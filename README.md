@@ -163,7 +163,11 @@ python3 -c "from mini_auditeur.tls_checker import check_tls; \
 
 ## 👥 Auteurs
 
-- Équipe 1 — Projet IEF2I 2026
+- YOUMBI Sonia
+- MAILLET Wilfried
+- ETO Marie Ange
+
+*Projet IEF2I — Promotion 2026*
 
 ## 📄 Licence
 
