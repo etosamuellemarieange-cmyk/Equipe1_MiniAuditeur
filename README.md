@@ -166,6 +166,7 @@ python3 -c "from mini_auditeur.tls_checker import check_tls; \
 - YOUMBI Sonia
 - MAILLET Wilfried
 - ETO Marie Ange
+- KOMENE Teddy
 
 *Projet IEF2I — Promotion 2026*
 

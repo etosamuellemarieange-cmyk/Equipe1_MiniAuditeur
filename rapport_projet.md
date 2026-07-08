@@ -2,7 +2,7 @@
 
 **Cours :** Python pour la cybersécurité et le pentesting
 **Formation :** IEF2I
-**Équipe :** YOUMBI Sonia, MAILLET Wilfried, ETO Marie Ange
+**Équipe :** YOUMBI Sonia, MAILLET Wilfried, ETO Marie Ange, KOMENE Teddy
 **Date :** Juillet 2026
 
 ---
@@ -86,7 +86,8 @@ La répartition suivante a été retenue en début de projet, avec des relecture
 |--------|--------------------------|
 | YOUMBI Sonia | Module 1 (scanner de ports TCP multi-thread) + gestion du parallélisme (ThreadPoolExecutor) |
 | MAILLET Wilfried | Module 2 (analyseur d'en-têtes HTTP) + interface CLI (argparse) |
-| ETO Marie Ange | Module 3 (générateur de rapport Markdown/HTML) + bonus TLS + documentation (README, rapport de projet)|
+| ETO Marie Ange | Module 3 (générateur de rapport Markdown/HTML) + bonus TLS |
+| KOMENE Teddy | Module utilitaire (`utils.py`), gestion d'erreurs transverse, tests manuels, documentation (README, rapport de projet) |
 
 Chaque membre a néanmoins contribué à la relecture des autres modules et à la gestion des erreurs transverses, conformément à l'exigence de soutenance selon laquelle chacun doit pouvoir présenter n'importe quelle partie du code.
 
